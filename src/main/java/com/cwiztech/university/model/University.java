@@ -54,5 +54,5 @@ public class University {
 	public void setUNIVERSITY_DESCRIPTION(String uNIVERSITY_DESCRIPTION) {
 		UNIVERSITY_DESCRIPTION = uNIVERSITY_DESCRIPTION;
 	}
-
+	
 }
